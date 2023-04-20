@@ -28,4 +28,4 @@ Au niveau de la classe Test, plusieurs méthodes :
 
 • Méthode 2 : créer un utilisateur, faire appel à la méthode init() qui permet de créer un Menu interactif afin d'interagir avec la console pour entrer les informations, puis faire appel à la méthode OrdonnerConsoCarbonne() pour obtenir le détail de l'empreinte carbone et des recommandations pour avoir un mode de vie plus soutenable.
 
-• Méthode 3 : créer un utilisateur à partir d’un fichier texte, puis faire appel à la méthode OrdonnerConsoCarbonne() pour obtenir le détail de son empreinte carbone et des recommandations pour avoir un mode de vie plus soute
+• Méthode 3 : créer un utilisateur à partir d’un fichier texte, puis faire appel à la méthode OrdonnerConsoCarbonne() pour obtenir le détail de son empreinte carbone et des recommandations pour avoir un meilleur  mode de vie.

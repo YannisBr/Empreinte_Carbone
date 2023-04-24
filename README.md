@@ -10,15 +10,15 @@ Grâce ces informations, le programme calcule l’empreinte carbone de l’utili
 
 ** Compilation
 
-• Pour compiler le projet à partir du terminal, vous vous dirigez dans le dossier src compris dans le projet puis vous executez la commande suivante: javac Test.java
+• Pour compiler le projet à partir du terminal, il faut se diriger dans le dossier src compris dans le projet puis executer la commande suivante: javac Test.java
 
-• Pour compiler le projet à partir d'un IDE, il faut juste exécuter le fichier Test.java (la compilation se fait toute seul)
+• Pour compiler le projet à partir d'un IDE, il faut  exécuter le fichier Test.java (la compilation se fait toute seul)
 
 ** Execution
 
-• Pour exécuter le projet à partir du terminal, vous vous dirigez dans le dossier src compris dans le projet puis vous executez la commande suivante: java Test
+• Pour exécuter le projet à partir du terminal, il faut se diriger dans le dossier src compris dans le projet puis executer la commande suivante: java Test
 
-• Pour exécuter le projet à partir d'un IDE, il faut juste exécuter le fichier Test.java
+• Pour exécuter le projet à partir d'un IDE, il faut exécuter le fichier Test.java
 
 ...
 

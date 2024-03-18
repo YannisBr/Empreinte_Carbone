@@ -4,7 +4,7 @@ L’objectif de ce projet est de réaliser un calculateur d’empreinte carbone.
 
 Le programme interagit avec l’individu (ou utilisateur) via la console ou via un fichier texte pour obtenir des informations sur son alimentation, ses dépenses, ses logements, ses transports …
 
-Grâce ces informations, le programme calcule l’empreinte carbone de l’utilisateur en tonnes de CO2 équivalent (TCO2eq) et lui fournit des recommandations pour adopter un mode de vie plus durable.
+Grâce à ces informations, le programme calcule l’empreinte carbone de l’utilisateur en tonnes de CO2 équivalent (TCO2eq) et lui fournit des recommandations pour adopter un mode de vie plus durable.
 
 ...
 

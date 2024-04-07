@@ -1,4 +1,4 @@
-**Présentation :
+**Présentation :**
 
 L’objectif de ce projet est de réaliser un calculateur d’empreinte carbone.
 
@@ -8,13 +8,13 @@ Grâce à ces informations, le programme calcule l’empreinte carbone de l’ut
 
 ...
 
-** Compilation
+**Compilation**
 
 • Pour compiler le projet à partir du terminal, il faut se diriger dans le dossier src compris dans le projet puis executer la commande suivante: javac Test.java
 
 • Pour compiler le projet à partir d'un IDE, il faut  exécuter le fichier Test.java (la compilation se fait toute seul)
 
-** Execution
+**Execution**
 
 • Pour exécuter le projet à partir du terminal, il faut se diriger dans le dossier src compris dans le projet puis executer la commande suivante: java Test
 

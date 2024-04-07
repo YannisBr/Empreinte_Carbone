@@ -1,4 +1,4 @@
-**Présentation :**
+**Présentation**
 
 L’objectif de ce projet est de réaliser un calculateur d’empreinte carbone.
 
